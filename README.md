@@ -1,4 +1,4 @@
-#NOT THE OFFICIAL APP, FORKED FOR TESTING. For the Official App head to https://github.com/fandreuz/TUI-ConsoleLauncher
+# NOT THE OFFICIAL APP, FORKED FOR TESTING. For the Official App head to https://github.com/fandreuz/TUI-ConsoleLauncher
 # T-UI Linux CLI Launcher
 
 <a href="https://play.google.com/store/apps/details?id=ohi.andre.consolelauncher"><img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="60"></a>    <a href="https://f-droid.org/packages/ohi.andre.consolelauncher">
